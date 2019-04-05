@@ -1,4 +1,4 @@
-#Where's Lizzie?
+Where's Lizzie?
 
 Welcome to our project. It's designed to track the movements of currency.
 This was the final project for CodeFirst: Girls Advanced Python at Goldman Sachs
