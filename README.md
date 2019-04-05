@@ -1,6 +1,7 @@
 # Where-sLizzie-
 
 Welcome to our project. It's designed to track the movements of currency.
+This was the final project for CodeFirst: Girls Advanced Python at Goldman Sachs
 
 It's live on heroku here:
 https://longlivethequeen.herokuapp.com/
